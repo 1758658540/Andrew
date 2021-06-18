@@ -38,3 +38,7 @@ header,
 .streak.streak-photo {
   background-attachment: fixed;
 }
+video {
+  max-width: 100%;
+  height: auto;
+}
